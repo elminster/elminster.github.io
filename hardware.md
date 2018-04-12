@@ -1,4 +1,4 @@
----
+=---
 layout: default
 title: "Stardot Retro Hardware List"
 date: 2018-04-12
@@ -22,18 +22,18 @@ tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 </style>
 
-# 1Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
+# 2Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
 
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
-<div
+<div id="mytable">
 
 <style>
-a {
+#mytable a {
     text-decoration: none;
     color: blue;
 }
-a:visited {
+#mytable a:visited {
     color: grey;
  }
 </style>>
