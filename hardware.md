@@ -58,7 +58,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | 8MB RAM Disc | High Speed RAM disc | Sprow | Y | 1Mhz Bus | BBC B, Master | Storage | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/ramdisc.htm> |
 | Y2k ROM | Fixes Year 2000 problem on Master | Sprow | Y | ROM Slot | Master | ROM | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/doomsday.htm> |
 | ROM Cartridge | Spare ROM/RAM cartridges | Sprow | Y | Cartridge | Electron, Master | Cartridge | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/cartridges.htm> |
-| BeebSID | Expansion with C64 SID Music Chip | MartinB/TomW | S: Prime | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=2530&hilit=Beebsid> |
+| BeebSID  | Expansion with C64 SID Music Chip | MartinB/TomW/Prime | Y | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14803> |
 | Master Ram Board | Remake of Slogger MRB | Prime | ? | CPU Socket | Electron | ShadowRAM | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=6729> |
 | Electron Plus 3 RAM/ROM  | Plus 3 RAM/ROM board | Prime | ? | Internal Plus3 | Electron | Expansion | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=8706> |
 | Electron User/UPURS Ports | Twin User and One UPURS Port | MartinB | Sixxdog_uk | Cartridge | Electron | Expansion |  | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12817&hilit=Electron+user+port> |
@@ -78,8 +78,10 @@ Following is a list of Modern Hardware projects that have been created for the A
 | ABR | Advance Battery Backed Ram Cartridge | Dave Hitchins | Y | Cartridge | Electron, Master | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=5672> |
 | AP6 | Remake of PRES AP6. Internal ROM expansion for Plus1 | Dave Hitchins | Y | Internal Plus1 | Electron | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=6280> |
 | MGC | Mega Games Cartridge. Programmable 200+ Game slots with interative menu | Dave Hitchins | Y | Cartridge | Electron | Expansion | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=1&t=8246> |
+| MGC Mk II |  Mk. II | Dave Hitchins | In Development | Cartridge | Electron | Expansion | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14517> |
 | AP5 | Remake of PRES AP5. User, Tube and 1Mhz Port Cart | Dave Hitchins | Y | Cartridge | Electron | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=8602> |
 | Match box copro | CoPro reproduced on a matchbox  | Hoglet/Flynnjs/BigEd | Y - flynnjs | Tube | ALL *E | CoPro | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=8932> |
+| Level shifter : 5v DIP to 3v3 DE0-nano | Used to allow other Spartan FPGAs to be used with ICE-T  | Flynnjs | Y | CPU Socket | ALL *E | Diagnostics | Prebuild | Other | Not for Profit | <http://www.xeropage.co.uk/shop/index.php?id_product=16&controller=product> |
 | BeebOPL | Yamaha circa 1980 Midi Chip Expansion | lazarusr | N | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=11434> |
 | Acorn Master Switcher | MOS ROM Switcher for BBC Master | ctorwy31 | Y | ROM Slot | Master | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
 | Turbo MMC | MMC Storage for Acorns | ctorwy31 | Y | User Port | ALL *E | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
@@ -105,6 +107,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atom GODIL Video Adapter |  | Hoglet |  |  | Atom | Video |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=7320> |
 | Atom Tube Interface | Tube interface for CoPro on ATOM | Hoglet |  |  | Atom | Tube |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10090> |
 | Atom FPGA |  | Hoglet (AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
+| Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | Part Build |  | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | Y | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 
 
@@ -132,6 +135,9 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | 3-Cart Expansion | Plus1 Carrtridge Slot replacement, with one extra cartridge slots | myelin | Y | Cartridge | Electron | Expansion | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=13089> |
 | Elk PiTubeDirect | Electron cartridge interface for PiTubeDirect | myelin | Y | Cartridge | Electron | CoPro | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=11325&start=720#p166961> |
 | Microcontroller UPURS cable | ATMEGA32U4-based UPURS cable | myelin | Y | User Port | ALL *E | Comms | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=13299&sid=abc4d45cc022b22e1448e6e08a48da91> |
+| Updateable MegaROM for the BBC Master 128 | in-system updateable MegaROM for the BBC Master 128 | myelin | Y | ROM Slot | Master | MOS | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14032> |
+| FX2 Tube/Cartridge Adapter | An adapter board to make it easy to monitor your Electron, BBC Micro, or BBC Master's bus using a cheap logic analyzer | myelin | Y | Tube | ALL *E | Diagnostics | Design Only | Open Source | Not for Profit | <http://myelin.nz/acorn/fx2tube> |
+| Fast serial port/SD card adapter | Fast serial port/SD card adapter for the 1MHz Bus | myelin | Y | 1Mhz Bus | ALL *E | Comms | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14033> |
 | EEPROM  | Original EEPROM 'ROM' design, now incorporated into many projecs in the list. | MartinB | Various | ROM Slot | All | Expansion | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=7393&hilit=Eeprom> |
 | Master UPURS Port | Plus 6522 boardinto internal Econet to turn into a user port for UPURS | Sydney | Y | Internal Econet | Master | Comms | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=7149> |
 | Extra Master User Ports | Use the Internal SCSI/Modem port  for some extra user ports | Sydney | Y | Internal SCSI/Modem | Master | Comms | Design Only | Open Source | Not for Profit | <http://www.stardot.org.uk/forums/viewtopic.php?f=3&t=9403> |
@@ -142,6 +148,7 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | BBC Master PSU Upgrade | 60W Acorn BBC Master power supply upgrade | simoni | Y | N/A | Master | Power | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=794> |
 | beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
 | ICE-T65/Z80/6809 | In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors (socketed cpu req.) | Hoglet | Y | CPU Socket | ALL | Diagnostics | Design Only | Open Source | Not for Profit | <https://github.com/hoglet67/AtomBusMon/wiki> |
+| 6502 Code Profiling | A holistic method of diagnostics using various projects and techniques. | Hoglet, BigEd, myelin and cmorley | Y | N/A | ALL | Diagnostics | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14885&p=199582&hilit=Dave+6502+profiler#p199582> |
 | Upgrading 64k B+ to 128K | Instructions for DIYing a 128K B+ | Various | Stardot | ROM Slot | BBC B+ | Expansion | Design Only | Open Source | Not for Profit | <http://www.stardot.org.uk/forums/viewtopic.php?f=3&t=9483> |
 | Cheap 32k SRAM mod for Beeb | BBC Model B DIY 32K Sideways RAM | Retroclinic ? | Stardot | N/A | BBC B | Expansion | Design Only | Open Source | Not for Profit | <http://www.retroclinic.com/acorn/swr/swr.htm> |
 | Atom YARRB | Yet Another RAM/ROM Board | Roland | Stardot | ROM Slot | Atom | Expansion | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=11373> |
