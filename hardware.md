@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2014-04-30
+---
+
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
 ## _**The Main List**_
