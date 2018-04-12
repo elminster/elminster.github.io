@@ -20,6 +20,13 @@ td{
 }
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
+a {
+    text-decoration: none;
+    color: blue !important;
+}
+a:visited {
+    color: grey;
+}
 </style>
 
 # Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
