@@ -25,7 +25,7 @@ date: 2018-04-12
        color: blue;
    }
    #mytable a:visited {
-       color: grey;
+       color: purple;
     }
    #mytable a:hover { text-decoration: underline }
 </style>
