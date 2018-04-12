@@ -1,2 +1,4 @@
 name: Stardot
 markdown: kramdown
+
+theme: jekyll-theme-cayman
