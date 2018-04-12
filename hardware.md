@@ -8,6 +8,12 @@ date: 2018-04-12
 
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ## _**The Main List**_
 
 | Product | Description | Designers | ActiveSupplier | Connection | Compatible | Category | Built | License | Org_Type | URLs |
