@@ -4,11 +4,19 @@ title: "Stardot Retro Hardware List"
 date: 2018-04-12
 ---
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-   border: 2px solid black;
-  }
-</style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
 
 # Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
 
