@@ -5,31 +5,32 @@ date: 2018-04-12
 ---
 
 <style>
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #000000;
-}
+   table{
+       border-collapse: collapse;
+       border-spacing: 0;
+       border:2px solid #000000;
+   }
 
-th{
-    border:2px solid #000000;
-}
+   th{
+       border:2px solid #000000;
+   }
 
-td{
-    border:1px solid #000000;
-}
-tr:nth-child(even) {background: #CCC}
-tr:nth-child(odd) {background: #FFF}
-#mytable a {
-    text-decoration: none;
-    color: blue;
-}
-#mytable a:visited {
-    color: grey;
- }
+   td{
+       border:1px solid #000000;
+   }
+   tr:nth-child(even) {background: #CCC}
+   tr:nth-child(odd) {background: #FFF}
+   #mytable a {
+       text-decoration: none;
+       color: blue;
+   }
+   #mytable a:visited {
+       color: grey;
+    }
+   #mytable a:hover { text-decoration: underline }
 </style>
 
-# 3Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
+# Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
 
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
