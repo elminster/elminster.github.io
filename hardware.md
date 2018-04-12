@@ -28,6 +28,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 
 <div>
 
+<style>
 a {
     text-decoration: none;
     color: blue;
@@ -35,6 +36,7 @@ a {
 a:visited {
     color: grey;
  }
+</style>
 
 ## _**The Main List**_
 
