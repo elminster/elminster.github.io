@@ -20,18 +20,21 @@ td{
 }
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
-a {
-    text-decoration: none;
-    color: blue !important;
-}
-a:visited {
-    color: grey;
-}
 </style>
 
 # Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
 
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
+
+<div>
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:visited {
+    color: grey;
+ }
 
 ## _**The Main List**_
 
@@ -176,3 +179,5 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | Manuals | Various Manual Reprints for Acrorn's | RetroClinic | Y | N/A | ALL | Books | Prebuild | Other | Commercial | <http://www.retroclinic.com/acorn/manuals/manuals.htm> |
 | RGB Scart Lead | RGB Scart Lead Video TV Cable | retrocomputershack | Y | RGB | ALL | Video | Prebuild | Other | Commercial | <http://www.ebay.co.uk/itm/250877464070?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT> |
 | Cassette Lead | Cable to connect Beeb to Cassette | retrocomputershack | Y | Cassette Port | ALL | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/itm/250877464070> |
+
+</div>
