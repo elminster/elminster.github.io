@@ -26,7 +26,7 @@ tr:nth-child(odd) {background: #FFF}
 
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
-<div>
+<div
 
 <style>
 a {
@@ -36,7 +36,7 @@ a {
 a:visited {
     color: grey;
  }
-</style>
+</style>>
 
 ## _**The Main List**_
 
