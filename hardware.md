@@ -155,6 +155,9 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | AtomSID | AtomSID Music Expansion | Prime | Stardot |  | Atom | Audio | Design Only | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=5053> |
 | AtomSID | AtomSID Music Expansion | oss003 | Stardot |  | Atom | Audio | Design Only | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=5053> |
 | Master Config Backup Mod | Using supercaps instead of batteries | Various | Stardot | N/A | Master | Repair | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=13353> |
+| 128K Banked Flash ROM | Electron 128K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/wV3DlKuX> i<br> <https://aisler.net/davidb/acorn-electron-128k-banked-flash-rom-cartridge/main-pcb> |
+| Mini 128K Banked Flash ROM | Mini 128K Banked Flash ROM Cartridge  | davidb | Y | Cartridge | Electron | Cartridge | Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/D69NmI70> <br> <https://aisler.net/davidb/acorn-electron-128k-banked-flash-rom-cartridge-de499fff-5999-4ca6-ad90-9b74df6f51f1/small-pcb> |
+| 32K Banked Flash ROM | Electron 32K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | URLs TBC|
 
 
 
