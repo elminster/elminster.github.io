@@ -2,3 +2,6 @@ name: Stardot
 markdown: kramdown
 
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
