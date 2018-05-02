@@ -80,6 +80,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | MGC | Mega Games Cartridge. Programmable 200+ Game slots with interative menu | Dave Hitchins | Y | Cartridge | Electron | Expansion | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=1&t=8246> |
 | MGC Mk II |  Mk. II | Dave Hitchins | In Development | Cartridge | Electron | Expansion | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14517> |
 | AP5 | Remake of PRES AP5. User, Tube and 1Mhz Port Cart | Dave Hitchins | Y | Cartridge | Electron | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=8602> |
+| Metal Cartridge Cases | Pegasus, New AP5 and New AP3/4 Painted Metal case | Dave Hitchins | Y | Cartridge | Electron | Case | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=13284> |
 | Match box copro | CoPro reproduced on a matchbox  | Hoglet/Flynnjs/BigEd | Y - flynnjs | Tube | ALL *E | CoPro | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=8932> |
 | Level shifter : 5v DIP to 3v3 DE0-nano | Used to allow other Spartan FPGAs to be used with ICE-T  | Flynnjs | Y | CPU Socket | ALL *E | Diagnostics | Prebuild | Other | Not for Profit | <http://www.xeropage.co.uk/shop/index.php?id_product=16&controller=product> |
 | BeebOPL | Yamaha circa 1980 Midi Chip Expansion | lazarusr | N | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=11434> |
@@ -115,11 +116,12 @@ Following is a list of Modern Hardware projects that have been created for the A
 
 ## _**Hardware System Integration Software**_
 
-| Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
+| Product | ------Description------ | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
 | PiTube | RPi Software + 5v Step down design to turn RPi into a CoPro | Hoglet/BigEd | Y | N/A | ALL *E | CoPro | Custom | Open Source | Not for Profit | <https://github.com/hoglet67/PiTubeDirect> |
 | UPURS | The main software for the UPURS system. Also requires a user port serial cable and the correct USB Serial dongle. | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://www.retro-kit.co.uk/UPURS/\n> |
 | I2C (4 U) | Software on a ROM to glue an Acorn to I2C devices | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=10966> |
+| Flashfloppy (& Gotek) | Open Source Firmware that support Acorns Filesystems on Gotek USB Floppy Drive | Keir Fraser | Y | Diskdrive Port | All *E | Storage | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14994#p201604> |
 
 
 ***
@@ -146,6 +148,7 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | Acorn Econet Clock V2 | Acorn Econet Clock V2 remake | simoni | Y | Econet | ALL *E | Comms | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=19> |
 | Acorn Speech PHROM TMS6100 | Speech PHROM TMS6100 Remake | simoni | Y | Speech IC Sockets | BBC B | Audio | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=30> |
 | BBC Master PSU Upgrade | 60W Acorn BBC Master power supply upgrade | simoni | Y | N/A | Master | Power | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=794> |
+| Domesday AIV SCSI Board | Recreation of Acorn AIV SCSI Adapter card | simoni | Y | N/A | Master | Storage | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=15020> |
 | beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
 | ICE-T65/Z80/6809 | In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors (socketed cpu req.) | Hoglet | Y | CPU Socket | ALL | Diagnostics | Design Only | Open Source | Not for Profit | <https://github.com/hoglet67/AtomBusMon/wiki> |
 | 6502 Code Profiling | A holistic method of diagnostics using various projects and techniques. | Hoglet, BigEd, myelin and cmorley | Y | N/A | ALL | Diagnostics | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14885&p=199582&hilit=Dave+6502+profiler#p199582> |
