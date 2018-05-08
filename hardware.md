@@ -31,8 +31,7 @@ date: 2018-04-12
 </style>
 
 # Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
-
-Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbists; they could be open source or propritey and they might be supplied as a PCB, a kit, fully built or anywhere in between!
+Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbyists; they could be open source or propriety and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
 <div id="mytable" markdown="1">
 
@@ -84,11 +83,12 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Match box copro | CoPro reproduced on a matchbox  | Hoglet/Flynnjs/BigEd | Y - flynnjs | Tube | ALL *E | CoPro | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=8932> |
 | Level shifter : 5v DIP to 3v3 DE0-nano | Used to allow other Spartan FPGAs to be used with ICE-T  | Flynnjs | Y | CPU Socket | ALL *E | Diagnostics | Prebuild | Other | Not for Profit | <http://www.xeropage.co.uk/shop/index.php?id_product=16&controller=product> |
 | BeebOPL | Yamaha circa 1980 Midi Chip Expansion | lazarusr | N | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=11434> |
-| Acorn Master Switcher | MOS ROM Switcher for BBC Master | ctorwy31 | Y | ROM Slot | Master | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
-| Turbo MMC | MMC Storage for Acorns | ctorwy31 | Y | User Port | ALL *E | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
-| ROM/SRAM Cartiridge  | Acorn BBC Micro Master RAM/ROM cartridge preloaded with eight ROM images | ctorwy31 | Y | Cartridge | Master | Cartridge | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
-| EEPROM Cartridge | Acorn BBC Micro Master non-volatile EEPROM ROM cartridge + Free Snapper ROM | ctorwy31 | Y | Cartridge | Master | Cartridge | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
-| BBC Micro 1772 Disc Upgrade | 1772 Disc Upgrade PCB + DFS & DDFS ROMS | ctorwy31 | Y | Disc IC Socket | BBC B | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| Acorn Master Switcher | MOS ROM Switcher for BBC Master | ctorwy31/IFEL | Y | ROM Slot | Master | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| Turbo MMC | MMC Storage for Acorns | ctorwy31/IFEL | Y | User Port | ALL *E | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| ROM/SRAM Cartiridge  | Acorn BBC Micro Master RAM/ROM cartridge preloaded with eight ROM images | ctorwy31/IFEL | Y | Cartridge | Master | Cartridge | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| EEPROM Cartridge | Acorn BBC Micro Master non-volatile EEPROM ROM cartridge + Free Snapper ROM | ctorwy31/IFEL | Y | Cartridge | Master | Cartridge | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| BBC Micro 1772 Disc Upgrade | 1772 Disc Upgrade PCB + DFS & DDFS ROMS | ctorwy31/IFEL | Y | Disc IC Socket | BBC B | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| 16 socket BB RAM/ROM EEPROM Board | Acorn BBC Micro 16 socket battery backed RAM ROM EEPROM expansion board | ctorwy31/IFEL | Y | Rom Slot | BBC B | Expansion | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
 | 32kB RAM & 32kB ROM | 32 kB RAM/ROM kit | cmorley | Y | ROM Slot | BBC B | Expansion | Prebuild | Other | Not for Profit | <http://www.boobip.com/index.php/hardware/32kb-ram-32kb-rom> |
 | 64kB EEPROM Module | 64kB EEPROM kit | cmorley | Y | ROM Slot | BBC B | Expansion | Prebuild | Other | Not for Profit | <http://www.boobip.com/index.php/hardware/64kb-eeprom> |
 | OS RAM Module (Extra 30k) | Code needs to be OS RAM Mod Aware | cmorley | Y | ROM Slot | BBC B | Expansion | Prebuild | Other | Not for Profit | <http://www.boobip.com/hardware/osram/osram-technical> |
@@ -126,7 +126,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 
 ***
 ## _**DIY - Relevant DIY project not covered by above**_
-This section covers any recent new or remakes of DIY projects that dont have an equivalent kit/prebuilt option above. There are 1000's of other DIY projects in Mags, Books and on the Web; But only a handful of really useful ones (that have been reimagined) currently appear here.
+This section covers any recent new or remakes of DIY projects that don't have an equivalent kit/prebuilt option above. There are 1000's of other DIY projects in Mags, Books and on the Web; But only a handful of really useful ones (that have been reimagined) currently appear here.
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
@@ -173,7 +173,19 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | C.J.Micros | ReSeller of various new (and old) products | N/A | N/A | N/A | N/A | N/A | Custom | Other | Commercial | <http://www.cjemicros.co.uk/> |
 | RetroClinic | Many spares, refurbs and repair services | N/A | N/A | N/A | N/A | N/A | Custom | Other | Commercial | <http://www.retroclinic.com/> |
 
+***
 
+## _**6502 SBC Kits**_
+This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt> & <https://hackaday.com/?s=6502>
+
+| Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
+|---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
+| L-Star Plus | Software-Defined 6502 Computer | Jac Goudsmit | Y | N/A | N/A | SBC | Kit | Open Source | Not for Profit | <https://www.l-star.org/> |
+| PE6502 | PE6502 single board computer | Putnam Electronics | Y | N/A | N/A | SBC | Kit | ?? | ?? | <http://www.retroclinic.com/> |
+| RC2014 | Simple 8 bit Z80 based modular computer | Spencer Owen | Y | N/A | N/A | SBC | Kit | Open Architecture | ?? | <https://rc2014.co.uk//> |
+| RC2014 6502 Modules | Turn an RC2014 into a 6502 system | Ben Chong  | Y | N/A | N/A | SBC | Kit | Open ?? | Not for Profit | <https://www.tindie.com/stores/ancientcomputing/> |
+
+Note the RC2014 requires the 3rd party 6502 modules by Ben Chong (or design your own), otherwise you have a Spectrum and not a BBC Micro! 
 
 ***
 
@@ -187,7 +199,7 @@ This section covers any recent new or remakes of DIY projects that dont have an 
 | Serial Cables | BBC to PC Serial Crossover Cable | Sprow | Y | RS432 | BBC, Master | Comms | Prebuild | Open Source | Commercial | <http://www.sprow.co.uk/bbc/extraserial.htm> |
 | Ethernet Cables DIN-&gt;RJ45 | Connect Sprow Ethernet Module to a Switch/Router | Sprow | Y | Econet | Master | Comms | Prebuild | Open Source | Commercial | <http://www.sprow.co.uk/bbc/masternet.htm> |
 | Cap Replacement Kit | Kit containing the Caps to be replaced in PSU on old Beebs | RetroClinic | Y | N/A | BBC | Repair | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
-| Cap Replacement Kit | Kit containing the Caps to be replaced in PSU on old Beebs | ctorwy31 | Y | N/A | BBC | Repair | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
+| Cap Replacement Kit | Kit containing the Caps to be replaced in PSU on old Beebs | ctorwy31/IFEL | Y | N/A | BBC | Repair | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
 | Battery Packs | Replacement Battery Pack for Master | RetroClinic | Y | N/A | Master | Repair | Prebuild | Other | Commercial | <http://www.retroclinic.com/acorn/mbattery/mbattery.htm> |
 | Manuals | Various Manual Reprints for Acrorn's | RetroClinic | Y | N/A | ALL | Books | Prebuild | Other | Commercial | <http://www.retroclinic.com/acorn/manuals/manuals.htm> |
 | RGB Scart Lead | RGB Scart Lead Video TV Cable | retrocomputershack | Y | RGB | ALL | Video | Prebuild | Other | Commercial | <http://www.ebay.co.uk/itm/250877464070?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT> |
