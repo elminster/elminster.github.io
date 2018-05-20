@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Acorn on Docker pt.1"
+description: Learn what Docker is and why you might want to use it.
+tags: blog docker acorn
 date: 2018-05-01
 ---
 
