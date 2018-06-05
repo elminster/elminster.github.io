@@ -1,7 +1,10 @@
 name: Elminster
 markdown: kramdown
 
+disqus: 
+  shortname: elminster-github-io
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
+
