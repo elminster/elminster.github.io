@@ -107,8 +107,10 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atom 2015 Remake | Remake of the Atom from ground up | Roland | Y | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <http://diy.acornatom.nl/links.html> |
 | Atom GODIL Video Adapter |  | Hoglet |  |  | Atom | Video |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=7320> |
 | Atom Tube Interface | Tube interface for CoPro on ATOM | Hoglet |  |  | Atom | Tube |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10090> |
-| Atom FPGA |  | Hoglet (AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
-| Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | Part Build |  | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
+| Atom FPGA |  | Hoglet (+AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
+| Acorn HDMI Adaptor | RGB to HDMI using a Pi Zero and a small CPLD  | Hoglet  |  In Development | RGB | ALL | Video |  TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430> |
+| Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
+| FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | Y | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 
 
@@ -149,6 +151,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Acorn Speech PHROM TMS6100 | Speech PHROM TMS6100 Remake | simoni | Y | Speech IC Sockets | BBC B | Audio | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=30> |
 | BBC Master PSU Upgrade | 60W Acorn BBC Master power supply upgrade | simoni | Y | N/A | Master | Power | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=794> |
 | Domesday AIV SCSI Board | Recreation of Acorn AIV SCSI Adapter card | simoni | Y | N/A | Master | Storage | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=15020> |
+| Acorn Cartridge Breakout | Acorn Master and Electron Cartridge Breakout Board | simoni | Y | Cartridge | Electron & Master | Development | Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15158> |
 | beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
 | ICE-T65/Z80/6809 | In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors (socketed cpu req.) | Hoglet | Y | CPU Socket | ALL | Diagnostics | Design Only | Open Source | Not for Profit | <https://github.com/hoglet67/AtomBusMon/wiki> |
 | 6502 Code Profiling | A holistic method of diagnostics using various projects and techniques. | Hoglet, BigEd, myelin and cmorley | Y | N/A | ALL | Diagnostics | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14885&p=199582&hilit=Dave+6502+profiler#p199582> |
