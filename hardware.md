@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stardot Retro Hardware List"
-date: 2018-04-12
+date: 2018-08-10
 ---
 
 <style>
@@ -181,7 +181,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 ***
 
 ## _**6502 SBC Kits**_
-This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt> & <https://hackaday.com/?s=6502>
+This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt>, <https://hackaday.io/search?term=6502>, & <https://hackaday.com/?s=6502>
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
