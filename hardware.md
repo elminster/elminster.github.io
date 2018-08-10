@@ -111,7 +111,9 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Acorn HDMI Adaptor | RGB to HDMI using a Pi Zero and a small CPLD  | Hoglet  |  In Development | RGB | ALL | Video |  TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
-| Beeb SD Card | Beeb SD card interfaces | SirMorris | Y | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
+| Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
+| Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
+| Atari Joystick Adaptor | Beeb SD card interfaces | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
 
 
 ***
