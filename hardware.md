@@ -186,7 +186,7 @@ This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
 | L-Star Plus | Software-Defined 6502 Computer | Jac Goudsmit | Y | N/A | N/A | SBC | Kit | Open Source | Not for Profit | <https://www.l-star.org/> |
-| PE6502 | PE6502 single board computer | Putnam Electronics | Y | N/A | N/A | SBC | Kit | ?? | ?? | <http://www.retroclinic.com/> |
+| PE6502 | PE6502 single board computer | Putnam Electronics | Y | N/A | N/A | SBC | Kit | ?? | ?? | <http://putnamelectronics.com/products.html> |
 | RC2014 | Simple 8 bit Z80 based modular computer | Spencer Owen | Y | N/A | N/A | SBC | Kit | Open Architecture | ?? | <https://rc2014.co.uk//> |
 | RC2014 6502 Modules | Turn an RC2014 into a 6502 system | Ben Chong  | Y | N/A | N/A | SBC | Kit | Open ?? | Not for Profit | <https://www.tindie.com/stores/ancientcomputing/> |
 
