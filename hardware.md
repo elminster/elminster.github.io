@@ -124,9 +124,9 @@ Following is a list of Modern Hardware projects that have been created for the A
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
 | PiTube | RPi Software + 5v Step down design to turn RPi into a CoPro | Hoglet/BigEd | Y | N/A | ALL *E | CoPro | Custom | Open Source | Not for Profit | <https://github.com/hoglet67/PiTubeDirect> |
 | UPURS | The main software for the UPURS system. Also requires a user port serial cable and the correct USB Serial dongle. | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://www.retro-kit.co.uk/UPURS/\n> |
-| I2C (4 U) | Software on a ROM to glue an Acorn to I2C devices | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=10966> |
+| I2C (4 U) | Software on a ROM to glue an Acorn to I2C devices | MartinB | Y | User/Analogue Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=10966> |
 | Flashfloppy (& Gotek) | Open Source Firmware that support Acorns Filesystems on Gotek USB Floppy Drive | Keir Fraser | Y | Diskdrive Port | All *E | Storage | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14994#p201604> |
-
+| Beeblink | A file storage system (using a PC) for the BBC Micro | Tom Seddon | Y | User Port | BBC B | Storage/Comms | Custom | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=53&t=15605> |
 
 ***
 ## _**DIY - Relevant DIY project not covered by above**_
