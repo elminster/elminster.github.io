@@ -45,6 +45,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | ReTuLa | Remake of Acorn Tube ULA | John Kortink | EOL | N/A | BBC B, Master | Tube | Prebuild | Propriety | Commercial | <http://www.zeridajh.org/hardware/retula/index.htm> |
 | TubeSilencer | Tube Interface voltage step down (aka silencer, muffler) | John Kortink | Y | Tube | BBC B, Master | Tube | Prebuild | Propriety | Commercial | <http://www.zeridajh.org/hardware/tubesilencer/index.htm> |
 | ReCo6502Mini | Remake of 65C102 Internal CoPro | John Kortink | Y | Internal Tube | Master | CoPro | Prebuild | Propriety | Commercial | <http://www.zeridajh.org/hardware/reco6502mini/index.htm> |
+| BBC2DVI | Allows your Acorn BBC or Electron to connect to modern monitors | John Kortink | Y | RGB | All | Video | Prebuild | Propriety | Commercial | <http://www.zeridajh.org/hardware/bbc2dvi/index.htm> |
 | Ethernet Module | Master series 10/100Mbps ethernet module | Sprow | Y | Internal Econet | Master | Comms | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/masternet.htm> |
 | 3.5" Floppy | 3.5 Disc drives compatible with the 8271 DFS via pulse modification | Sprow | ? | Disc | BBC B, Master | Storage | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/floppydrives.htm> |
 | Extra Serial Port | Add-on board for extra serial port | Sprow | Y | 1Mhz Bus | BBC B, Master | Comms | Prebuild | Propriety | Commercial | <http://www.sprow.co.uk/bbc/extraserial.htm> |
@@ -108,12 +109,14 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atom GODIL Video Adapter |  | Hoglet |  |  | Atom | Video |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=7320> |
 | Atom Tube Interface | Tube interface for CoPro on ATOM | Hoglet |  |  | Atom | Tube |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10090> |
 | Atom FPGA |  | Hoglet (+AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
-| Acorn HDMI Adaptor | RGB to HDMI using a Pi Zero and a small CPLD  | Hoglet  |  In Development | RGB | ALL | Video |  TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430> |
+| Acorn RGBHDMI Adaptor | RGB to HDMI using a Pi Zero and a small CPLD  | Hoglet  |  In Development | RGB | ALL | Video |  TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430> |
+| Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
-| Atari Joystick Adaptor | Beeb SD card interfaces | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
+| Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
+| Atari Joystick Adaptor | Tricky Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
 
 
 ***
