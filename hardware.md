@@ -105,7 +105,8 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atom Colour Board |  | Prime | Shelved? |  | Atom | Video |  |  | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10158> |
 | AtoMMC2 SC Card | MMC Storage for Acorn Atoms | SirMorris |  |  | Atom | Storage |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=2888> |
 | Atom 6809 Second Processor | 6809 CoPro fro the Atom | Roland |  |  | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
-| Atom 2015 Remake | Remake of the Atom from ground up | Roland | Y | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <http://diy.acornatom.nl/links.html> |
+| Atom 2015 Remake | Remake of the Atom from ground up | Roland | N | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <http://diy.acornatom.nl/links.html> |
+| Atom 2018 Remake | Remake of the Atom from ground up | Roland | Development | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=44&t=15197> |
 | Atom GODIL Video Adapter |  | Hoglet |  |  | Atom | Video |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=7320> |
 | Atom Tube Interface | Tube interface for CoPro on ATOM | Hoglet |  |  | Atom | Tube |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10090> |
 | Atom FPGA |  | Hoglet (+AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
@@ -162,6 +163,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | 1MHz Breakout | 1MHz bus breakout board | dominicbeesley | N | 1Mhz Bus | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16436> |
 | beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
 | ICE-T65/Z80/6809 | In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors (socketed cpu req.) | Hoglet | Y | CPU Socket | ALL | Diagnostics | Design Only | Open Source | Not for Profit | <https://github.com/hoglet67/AtomBusMon/wiki> |
+| Beeb 1MHz Bus FPGA Adaptor | Allows a Xilinx FPGA Spartan 6 XC6SLX9 board to be connected to a Beeb | Hoglet | Y | 1 MHz Bus | BBC B, Master | Expansion | PCB Only | Open Source | Not for Profit | <https://github.com/hoglet67/Beeb1MHzBusFpga/wiki> |
 | 6502 Code Profiling | A holistic method of diagnostics using various projects and techniques. | Hoglet, BigEd, myelin and cmorley | Y | N/A | ALL | Diagnostics | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14885&p=199582&hilit=Dave+6502+profiler#p199582> |
 | Upgrading 64k B+ to 128K | Instructions for DIYing a 128K B+ | Various | Stardot | ROM Slot | BBC B+ | Expansion | Design Only | Open Source | Not for Profit | <http://www.stardot.org.uk/forums/viewtopic.php?f=3&t=9483> |
 | Cheap 32k SRAM mod for Beeb | BBC Model B DIY 32K Sideways RAM | Retroclinic ? | Stardot | N/A | BBC B | Expansion | Design Only | Open Source | Not for Profit | <http://www.retroclinic.com/acorn/swr/swr.htm> |
@@ -172,6 +174,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | 128K Banked Flash ROM | Electron 128K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/wV3DlKuX> <br> <https://aisler.net/davidb/acorn-electron-128k-banked-flash-rom-cartridge/main-pcb> |
 | Mini 128K Banked Flash ROM | Mini 128K Banked Flash ROM Cartridge  | davidb | Y | Cartridge | Electron | Cartridge | Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/D69NmI70> |
 | 32K Banked Flash ROM | Electron 32K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | URL TBC|
+| Music 5000 Clone | Music 5000 Clone in KiCAD  | jasonl | Y | 1 MhZ Bus | ALL *E | Audio| Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16895> |
 
 
 
