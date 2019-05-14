@@ -101,9 +101,9 @@ Following is a list of Modern Hardware projects that have been created for the A
 | DIY Master Quad ROM Switch | Kit based ROM MOS Switcher | Kjell | Y | ROM Slot | Master | MOS | Kit | Open Source | Not for Profit | <http://www.sundby.com/index.php/diy-bbc-master-quad-os-rom-switch/> |
 | Dual Digital Joystick Adapters | Dual Digital Joystick Adapters, converts analoge port to digital | Bryce | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <http://www.amibay.com/showthread.php?76794-BBC-Electron-Dual-Digital-Joystick-Adapters/page11> |
 | RAMagic | PC to Beeb File Transfer. RTC, 32KB NVRAM, 16K SRAM | MartinB | EOL? | ROM Slot | BBC B, Master | Expansion | Prebuild | Other | Not for Profit | <http://chrisacorns.computinghistory.org.uk/New4Old/MBarr_RAMagic.html> |
-| Atom 32K RAM/ROM | Provides 32K RAM, sideways Rom and a faster 6502 Clock Speed. | Prime | ? |  | Atom | Expansion | Prebuild | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=5056> |
+| Atom 32K RAM/ROM | Provides 32K RAM, sideways Rom and a faster 6502 Clock Speed. | Prime | Y | IC22/44 Sockets | Atom | Expansion | Prebuild | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=5056> |
 | Atom Floppy Board | WD177x Floppy Controller board | Prime | ? |  | Atom | Storage | Prebuild | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10351> |
-| Atom Colour Board |  | Prime | Shelved? |  | Atom | Video |  |  | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10158> |
+| Atom Colour Board |  | Prime | Y | IC31 Socket | Atom | Video | Prebuild |  | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=44&t=17032> |
 | AtoMMC2 SC Card | MMC Storage for Acorn Atoms | SirMorris |  |  | Atom | Storage |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=2888> |
 | Atom 6809 Second Processor | 6809 CoPro fro the Atom | Roland |  |  | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
 | Atom 2015 Remake | Remake of the Atom from ground up | Roland | N | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <http://diy.acornatom.nl/links.html> |
@@ -115,9 +115,12 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | PCB Only | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
+| Design #4 | Music 5000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBS | Open Source | Not for Profit | <https://www.youtube.com/watch?v=QCZ0QqFA-qM> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Electron SD Card | Electron SD card interfaces | Ramtop | Y | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
 | Electron MicroSD Card | Electron SD card interfaces | Ramtop | N | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16481> |
+| Computer Concept PALROM redesign | 128K Software ROMs | KenLowe | Y | ROM Slot | BBC, Master | Utilities | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17124> |
+| Integra-B Remake | Modern build of the Integra-B ROM/RAM board | KenLowe | Y | ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16825> |
 | Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
 | Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
 | Atari Joystick Adaptor | Tricky Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
