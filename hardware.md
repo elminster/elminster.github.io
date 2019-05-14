@@ -115,7 +115,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | PCB Only | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
-| Design #4 | Music 5000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBS | Open Source | Not for Profit | <https://www.youtube.com/watch?v=QCZ0QqFA-qM> |
+| Design #4 | Music 5000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://www.youtube.com/watch?v=QCZ0QqFA-qM> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Electron SD Card | Electron SD card interfaces | Ramtop | Y | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
 | Electron MicroSD Card | Electron SD card interfaces | Ramtop | N | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16481> |
