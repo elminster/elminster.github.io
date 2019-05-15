@@ -164,6 +164,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Acorn Speech PHROM TMS6100 | Speech PHROM TMS6100 Remake | simoni | Y | Speech IC Sockets | BBC B | Audio | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=30> |
 | BBC Master PSU Upgrade | 60W Acorn BBC Master power supply upgrade | simoni | Y | N/A | Master | Power | Design Only | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=794> |
 | Domesday AIV SCSI Board | Recreation of Acorn AIV SCSI Adapter card | simoni | Y | N/A | Master | Storage | Design Only | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=15020> |
+| Acorn Econet Clock V2 | Second version of remake of Acorn Econet Clock | simoni | Y | Econet | BBC, Master | Comms | Design Only | Open Source | Not for Profit | <https://www.waitingforfriday.com/?p=19> |
 | Acorn Cartridge Breakout | Acorn Master and Electron Cartridge Breakout Board | simoni | Y | Cartridge | Electron & Master | Development | Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15158> |
 | 1MHz Breakout | 1MHz bus breakout board | dominicbeesley | N | 1Mhz Bus | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16436> |
 | beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
