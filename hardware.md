@@ -124,6 +124,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
 | Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
 | Atari Joystick Adaptor | Tricky Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
+| Music 5000 Interface | MIDI Input Interface for Music 5000  | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
 
 
 ***
