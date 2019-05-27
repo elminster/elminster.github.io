@@ -1,8 +1,6 @@
 name: Elminster
 markdown: kramdown
 
-analytics-id: "UA-140909964-1"
-
 disqus: 
   shortname: elminster-github-io
 theme: jekyll-theme-cayman
