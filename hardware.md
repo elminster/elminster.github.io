@@ -118,13 +118,15 @@ Following is a list of Modern Hardware projects that have been created for the A
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
 | MiIDI -> STM32 -> Beeb -> Music 5000 | Music 5000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17146> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
-| Electron SD Card | Electron SD card interfaces | Ramtop | Y | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
-| Electron MicroSD Card | Electron SD card interfaces | Ramtop | N | User Port | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16481> |
+| Electron MicroSD & SRAM Card | Electron SD card and SRAM interface | Ramtop | Y | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17347> |
+| Electron SD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
+| Electron MicroSD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16481> |
 | Computer Concept PALROM redesign | 128K Software ROMs | KenLowe | Y | ROM Slot | BBC, Master | Utilities | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17124> |
 | Integra-B Remake | Modern build of the Integra-B ROM/RAM board | KenLowe | Y | ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16825> |
 | Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
 | Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
-| Atari Joystick Adaptor | Tricky Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
+| Atari Joystick Adaptor | Tricky Atari Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
+| SEGA Joypad Adaptor | Tricky SEGA Joypad Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17547> |
 | Music 5000 Interface | MIDI Input Interface for Music 5000  | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
 
 
@@ -139,6 +141,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | I2C (4 U) | Software on a ROM to glue an Acorn to I2C devices | MartinB | Y | User/Analogue Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=10966> |
 | Flashfloppy (& Gotek) | Open Source Firmware that support Acorns Filesystems on Gotek USB Floppy Drive | Keir Fraser | Y | Diskdrive Port | All *E | Storage | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14994#p201604> |
 | Beeblink | A file storage system (using a PC) for the BBC Micro | Tom Seddon | Y | User Port | BBC B, Master  | Storage/Comms | Custom | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=53&t=15605> |
+| Godil Adaptor | Godil 50 to 40 pin Adaptor | bprosman | Y | N/A | All *E | Comms | Custom | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=12954&start=30#p221943> |
 
 ***
 ## _**DIY - Relevant DIY project not covered by above**_
