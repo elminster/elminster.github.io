@@ -64,7 +64,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Electron User/UPURS Ports | Twin User and One UPURS Port | MartinB | Sixxdog_uk | Cartridge | Electron | Expansion |  | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12817&hilit=Electron+user+port> |
 | Internal Data Centre | USB, CF, IDE, NVRAM with 1MB Flash RAM. Fits internally. | RetroClinic | N | 1Mhz Bus | BBC B, Master | Storage | Prebuild | Open Source | Commercial | <http://www.retroclinic.com/acorn/datacentre/datacentre.htm> |
 | External Data Centre | USB, CF, IDE, NVRAM with 1MB Flash RAM. Fits externally. | RetroClinic | N | 1Mhz Bus | ALL *E | Storage | Prebuild | Open Source | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
-| Micro-SPI MMC | Micro-SPI MMC Jukebox | RetroClinic | Y | Dis | BBC, Master | Storage | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
+| Micro-SPI MMC | Micro-SPI MMC Jukebox | RetroClinic | Y | Disc | BBC, Master | Storage | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
 | BBC 1770 Upgrade | 1770 Disc Upgrade Kit | RetroClinic | Y | Disc IC Socket | BBC B | Storage | Kit | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
 | BBC B+ ROM Switcher | B+ MOS switch between 2.0 and 1.2 | RetroClinic | Y | ROM Slot | BBC B+ | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
 | Master ROM Switcher | Master MOS Switch - 3.5, 3.2, 2.0 and 1.2 | RetroClinic | Y | ROM Slot | Master | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/retroclinic> |
@@ -73,6 +73,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | VideoNuLA | Palettemate Remada and improved. GFX mode that gives 16 colours in mode 2 and 4096 palette in  all modes | RobC | Y | Video Socket | BBC, Master | Video | Prebuild | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=169107#p169107> |
 | Internal 1Mhz connector Adaptor | Converts internal SCSI/Modem connect in Master to a stnadard 1Mhz bus connector. | simoni | ? | Internal SCSI/Modem | Master | Storage | Design Only | Open Source | Not for Profit | <http://www.domesday86.com/?page_id=409> |
 | BeebSCSI | Emulate the original BBC Domesday Laser Video Disc system and provides a microSD storage card | simoni | Y - danielj | 1Mhz Bus | ALL * E | Storage | Design Only | Open Source | Not for Profit | <http://www.domesday86.com/?page_id=400> |
+| BeebSCSI Mini | Mini BeebSCSI fitting under Beeb  | Flynnjs | N | 1MHz Bus | ALL *E | Storage | PreBuilt | TBC | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=13224> |
 | SmallyMouse2 | Universal USB to Quadrature mouse converter | simoni | TheCorfiot | User Port | ALL * E | User Interface | Prebuild | Open Source | Not for Profit | <http://www.waitingforfriday.com/?p=827> |
 | ATI | Tube Interface for the Electron | Dave Hitchins | Y | Cartridge |  | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=5588> |
 | ARA | ROM Cartridge | Dave Hitchins | Y | Cartridge | Electron, Master | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=5555> |
@@ -85,6 +86,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Ultimate Electron Upgrade | ReMake of Electron ULA with a few extra features | Dave Hitchins/Hoglet/myelin | In Development | ULA | Electron | Expansion | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=9223> |
 | Match box copro | CoPro reproduced on a matchbox  | Hoglet/Flynnjs/BigEd | Y - flynnjs | Tube | ALL *E | CoPro | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=8932> |
 | Level shifter : 5v DIP to 3v3 DE0-nano | Used to allow other Spartan FPGAs to be used with ICE-T  | Flynnjs | Y | CPU Socket | ALL *E | Diagnostics | Prebuild | Other | Not for Profit | <http://www.xeropage.co.uk/shop/index.php?id_product=16&controller=product> |
+| Femto Flash Floppy | Mini Gotek using SDCard fitting under Beeb  | Flynnjs | Development | Disc | ALL *E | Storage | TBC | TBC | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17753> |
 | BeebOPL | Yamaha circa 1980 Midi Chip Expansion | lazarusr | N | 1Mhz Bus | ALL *E | Audio | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?t=11434> |
 | Acorn Master Switcher | MOS ROM Switcher for BBC Master | ctorwy31/IFEL | Y | ROM Slot | Master | MOS | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
 | Turbo MMC | MMC Storage for Acorns | ctorwy31/IFEL | Y | User Port | ALL *E | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/usr/ctorwy31> |
@@ -116,7 +118,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | PCB Only | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
-| MiIDI -> STM32 -> Beeb -> Music 5000 | Music 5000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17146> |
+| Music 4000 STM32  | Music 4000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17146> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Electron MicroSD & SRAM Card | Electron SD card and SRAM interface | Ramtop | Y | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17347> |
 | Electron SD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
@@ -139,7 +141,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | PiTube | RPi Software + 5v Step down design to turn RPi into a CoPro | Hoglet/BigEd | Y | N/A | ALL *E | CoPro | Custom | Open Source | Not for Profit | <https://github.com/hoglet67/PiTubeDirect> |
 | UPURS | The main software for the UPURS system. Also requires a user port serial cable and the correct USB Serial dongle. | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://www.retro-kit.co.uk/UPURS/\n> |
 | I2C (4 U) | Software on a ROM to glue an Acorn to I2C devices | MartinB | Y | User/Analogue Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=10966> |
-| Flashfloppy (& Gotek) | Open Source Firmware that support Acorns Filesystems on Gotek USB Floppy Drive | Keir Fraser | Y | Diskdrive Port | All *E | Storage | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14994#p201604> |
+| Flashfloppy (& Gotek) | Open Source Firmware that support Acorns Filesystems on Gotek USB Floppy Drive | Keir Fraser | Y | Disc Port | All *E | Storage | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14994#p201604> |
 | Beeblink | A file storage system (using a PC) for the BBC Micro | Tom Seddon | Y | User Port | BBC B, Master  | Storage/Comms | Custom | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=53&t=15605> |
 | Godil Adaptor | Godil 50 to 40 pin Adaptor | bprosman | Y | N/A | All *E | Comms | Custom | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=12954&start=30#p221943> |
 
@@ -185,7 +187,9 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | 128K Banked Flash ROM | Electron 128K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/wV3DlKuX> <br> <https://aisler.net/davidb/acorn-electron-128k-banked-flash-rom-cartridge/main-pcb> |
 | Mini 128K Banked Flash ROM | Mini 128K Banked Flash ROM Cartridge  | davidb | Y | Cartridge | Electron | Cartridge | Design Only | Open Source | Not for Profit | <https://oshpark.com/shared_projects/D69NmI70> |
 | 32K Banked Flash ROM | Electron 32K Banked Flash ROM Cartridge | davidb | Y | Cartridge | Electron | Cartridge| Design Only | Open Source | Not for Profit | URL TBC|
-| Music 5000 Clone | Music 5000 Clone in KiCAD  | jasonl | Y | 1 MhZ Bus | ALL *E | Audio| Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16895> |
+| Music 5000/3000 Clone | Music 5000/3000 Clone in KiCAD  | jasonl | Y | 1 MhZ Bus | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16895> |
+| Music 4000 Interface | Music 4000 Keyboard(less) Interface | jasonl | Y | User Port | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music4xxx-AtMega> |
+| Music 2000 Clone | Music 2000 Midi Interface Clone  | jasonl | Y | Music 5000 | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music2xxx> |
 
 
 
