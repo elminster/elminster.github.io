@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stardot Retro Hardware List"
-date: 2018-08-10
+date: 2020-07-17
 ---
 
 <style>
@@ -31,6 +31,7 @@ date: 2018-08-10
 </style>
 
 # Modern Retro Hardware List for the BBC Micro Master and Acorn Electron
+
 Following is a list of Modern Hardware projects that have been created for the Acorn 8bit series of computers. They may be commercial or produced by hobbyists; they could be open source or propriety and they might be supplied as a PCB, a kit, fully built or anywhere in between!
 
 <div id="mytable" markdown="1">
@@ -84,6 +85,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | AP5 | Remake of PRES AP5. User, Tube and 1Mhz Port Cart | Dave Hitchins | Y | Cartridge | Electron | Expansion | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=8602> |
 | Metal Cartridge Cases | Pegasus, New AP5 and New AP3/4 Painted Metal case | Dave Hitchins | Y | Cartridge | Electron | Case | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=13284> |
 | Ultimate Electron Upgrade | ReMake of Electron ULA with a few extra features | Dave Hitchins/Hoglet/myelin | In Development | ULA | Electron | Expansion | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=9223> |
+| Electron ULA Basic Board | ReMake of Electron ULA  Lite | Budgie/(Hoglet) | In Development | ULA | Electron | Expansion | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=19463> |
 | Match box copro | CoPro reproduced on a matchbox  | Hoglet/Flynnjs/BigEd | Y - flynnjs | Tube | ALL *E | CoPro | Kit | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=8932> |
 | Level shifter : 5v DIP to 3v3 DE0-nano | Used to allow other Spartan FPGAs to be used with ICE-T  | Flynnjs | Y | CPU Socket | ALL *E | Diagnostics | Prebuild | Other | Not for Profit | <http://www.xeropage.co.uk/shop/index.php?id_product=16&controller=product> |
 | Femto Flash Floppy | Mini Gotek using SDCard fitting under Beeb  | Flynnjs | Development | Disc | ALL *E | Storage | TBC | TBC | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17753> |
@@ -127,12 +129,15 @@ Following is a list of Modern Hardware projects that have been created for the A
 | SD Interface for Plus 1 | Electron SD card interface for Plus 1 | Ramtop | Dev | Cartridge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=18055> |
 | Computer Concept PALROM redesign | 128K Software ROMs | KenLowe | Y | ROM Slot | BBC, Master | Utilities | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17124> |
 | Integra-B Remake | Modern build of the Integra-B ROM/RAM board | KenLowe | Y | ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16825> |
+| IntegraB V2 | Modern improvement of the Integra-B ROM/RAM board | KenLowe | In Development| ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=19392&p=269720#p269720> |
+| User Port Extender / SD Card Reader Interface | Allows power to be drawn from user port and still be used | KenLowe | Y | User Port | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=19788#p275822> |
+| New Raspberry Pi to 1MHz bus interface | Alternative level shifter using less components | KenLowe | Y | 1MHz | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=18513> |
+| New SCSI Host Adaptor | Connect old SCSI HDs to the 1MHz port | KenLowe | Y | 1MHz | BBC, Master | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=18815> |
 | Compact Beeb SD Card | A Compact option for Beeb MMC | Tricky et al. | Y | User Port | ALL *E | Storage | Prebuild & Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=12869> |
 | Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
 | Atari Joystick Adaptor | Tricky Atari Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
 | SEGA Joypad Adaptor | Tricky SEGA Joypad Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17547> |
 | Music 5000 Interface | MIDI Input Interface for Music 5000  | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
-
 
 ***
 
@@ -148,7 +153,9 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Godil Adaptor | Godil 50 to 40 pin Adaptor | bprosman | Y | N/A | All *E | Comms | Custom | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=12954&start=30#p221943> |
 
 ***
+
 ## _**DIY - Relevant DIY project not covered by above**_
+
 This section covers any recent new or remakes of DIY projects that don't have an equivalent kit/prebuilt option above. There are 1000's of other DIY projects in Mags, Books and on the Web; But only a handful of really useful ones (that have been reimagined) currently appear here.
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
@@ -195,8 +202,6 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Music 4000 Interface | Music 4000 Keyboard(less) Interface | jasonl | Y | User Port | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music4xxx-AtMega> |
 | Music 2000 Clone | Music 2000 Midi Interface Clone  | jasonl | Y | Music 5000 | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music2xxx> |
 
-
-
 ***
 
 ## _**Resellers**_
@@ -208,8 +213,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 
 ***
 
-## _**6502 SBC Kits**_
-This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt>, <https://hackaday.io/search?term=6502>, & <https://hackaday.com/?s=6502>
+## _**6502 SBC Kits**_This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt>, <https://hackaday.io/search?term=6502>, & <https://hackaday.com/?s=6502>
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
@@ -218,7 +222,7 @@ This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer
 | RC2014 | Simple 8 bit Z80 based modular computer | Spencer Owen | Y | N/A | N/A | SBC | Kit | Open Architecture | ?? | <https://rc2014.co.uk//> |
 | RC2014 6502 Modules | Turn an RC2014 into a 6502 system | Ben Chong  | Y | N/A | N/A | SBC | Kit | Open ?? | Not for Profit | <https://www.tindie.com/stores/ancientcomputing/> |
 
-Note the RC2014 requires the 3rd party 6502 modules by Ben Chong (or design your own), otherwise you have a Spectrum and not a BBC Micro! 
+Note the RC2014 requires the 3rd party 6502 modules by Ben Chong (or design your own), otherwise you have a Spectrum and not a BBC Micro!
 
 ***
 
