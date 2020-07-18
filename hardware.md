@@ -120,7 +120,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Acorn RGBHDMI Adaptor | RGB to HDMI using a Pi Zero and a small CPLD  | Hoglet  |  Y | RGB | ALL | Video |  TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430> |
 | Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | PCB Only | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
-| FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | In Development | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
+| FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | Y | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
 | Music 4000 STM32  | Music 4000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17146> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Electron MicroSD & SRAM Card | Electron SD card and SRAM interface | Ramtop | Y | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17347> |
@@ -137,8 +137,9 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atari Joystick Adaptor | BitSeeker Joystick Adaptor | BitSeeker | Y | Analogue Port | ALL | User Interface | Kit | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15037> |
 | Atari Joystick Adaptor | Tricky Atari Joystick Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=14355> |
 | SEGA Joypad Adaptor | Tricky SEGA Joypad Adaptor | Tricky | Y | Analogue Port | ALL | User Interface | Prebuild | Other | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17547> |
-| Music 5000 Interface | MIDI Input Interface for Music 5000  | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
-
+| Music 5000 Interface | MIDI Input Interface for Music 5000 | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
+| E2P Remake | Remake of Electron Second Process Cart | jms2 | Y | Cartridge | Electron | CoPro | PCB Only | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17069> |
+| E2P 512K Expansion | Daughter board for E2P board giving extra RAM Banks | iwasjafa | Y | E2P RAM | Electron | RAM | PCB Only | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?p=261209> |
 ***
 
 ## _**Hardware System Integration Software**_
@@ -201,6 +202,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Music 5000/3000 Clone | Music 5000/3000 Clone in KiCAD  | jasonl | Y | 1 MhZ Bus | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16895> |
 | Music 4000 Interface | Music 4000 Keyboard(less) Interface | jasonl | Y | User Port | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music4xxx-AtMega> |
 | Music 2000 Clone | Music 2000 Midi Interface Clone  | jasonl | Y | Music 5000 | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music2xxx> |
+| ArduinoFilestore | Arduino based Econet Filestore  | garethdavisbbc | Y | Econet Port | BBC & Master | Network | Design Only | Open Source | Not for Profit | <https://github.com/stardot/ArduinoFilestore> |
 
 ***
 
