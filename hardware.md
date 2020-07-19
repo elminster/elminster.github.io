@@ -111,9 +111,12 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Atom Floppy Board | WD177x Floppy Controller board | Prime | ? |  | Atom | Storage | Prebuild | Other | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10351> |
 | Atom Colour Board |  | Prime | Y | IC31 Socket | Atom | Video | Prebuild |  | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=44&t=17032> |
 | AtoMMC2 SC Card | MMC Storage for Acorn Atoms | SirMorris |  |  | Atom | Storage |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=2888> |
-| Atom 6809 Second Processor | 6809 CoPro fro the Atom | Roland |  |  | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
+| Atom 6809 Second Processor | 6809 CoPro for the Atom | Roland |  |  | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
 | Atom 2015 Remake | Remake of the Atom from ground up | Roland | N | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <http://diy.acornatom.nl/links.html> |
 | Atom 2018 Remake | Remake of the Atom from ground up | Roland | Development | N/A | Atom | Computer | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=44&t=15197> |
+| Atomic ESP8266 WiFi | WiFi interfacefor the Atom | Roland | Dev | Serial Port | Atom | Network | TBC | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
+| Atom Dual Serial Port |  | Roland | Y | TBC | Atom | Serial | TBC | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=8518> |
+| Electron Wifi | ESP8266 Wifi Cartridge for the Electron | Roland | Dev | Cartridge | Electron | Network| TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=19013&start=60#p276032> |
 | Atom GODIL Video Adapter |  | Hoglet |  |  | Atom | Video |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=7320> |
 | Atom Tube Interface | Tube interface for CoPro on ATOM | Hoglet |  |  | Atom | Tube |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=10090> |
 | Atom FPGA |  | Hoglet (+AlanD) |  | Tube | Atom | CoPro |  |  |  | <http://stardot.org.uk/forums/viewtopic.php?f=44&t=6313> |
@@ -203,6 +206,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Music 4000 Interface | Music 4000 Keyboard(less) Interface | jasonl | Y | User Port | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music4xxx-AtMega> |
 | Music 2000 Clone | Music 2000 Midi Interface Clone  | jasonl | Y | Music 5000 | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music2xxx> |
 | ArduinoFilestore | Arduino based Econet Filestore  | garethdavisbbc | Y | Econet Port | BBC & Master | Network | Design Only | Open Source | Not for Profit | <https://github.com/stardot/ArduinoFilestore> |
+| Beeb Bot Clone | Clone design of the BBC Micro Bot  | simoni | Y | Robot | BBC & Master | Other | Design Only | Open Source | Not for Profit | <https://github.com/simoninns/Beeb-Bot/wiki> |
 
 ***
 
