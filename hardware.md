@@ -143,6 +143,10 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Music 5000 Interface | MIDI Input Interface for Music 5000 | BrokenARM | Y | User Port | ALL *E | Audio| PreBuild | Propriety | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=16893> |
 | E2P Remake | Remake of Electron Second Process Cart | jms2 | Y | Cartridge | Electron | CoPro | PCB Only | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17069> |
 | E2P 512K Expansion | Daughter board for E2P board giving extra RAM Banks | iwasjafa | Y | E2P RAM | Electron | RAM | PCB Only | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?p=261209> |
+| Electron User Port Splitter | Electron Riser/Splitter & the User Port  | walkerworks | Y | Cartridge | Electron | User Port | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Acorn_revival.html#UserPort> |
+| Electron Synth Interface | A Synth/Sequencer Interface for the Electron  | walkerworks | Y | User Port | Electron | Sound | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Electron_Sequencer.html#User_Interface> |
+| TTL RGB Switch | Din Style RGB Switcher for Acorn Machines | walkerworks | Y | RGB | ALL | Video | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Acorn_revival.html#RGB%20Switch> |
+| 32-16 ROM Board | 4x16K instead of 2x32k ROM Board for the BBC Master | walkerworks | Y | ROM Slot | ALL | Expansion | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Acorn_revival.html#Master> |
 
 ***
 
