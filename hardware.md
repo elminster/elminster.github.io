@@ -248,7 +248,9 @@ BBC Micro Owl Logo | chrislogic | N/A | N/A | TBC | Artifact | STL | Creative Co
 
 ***
 
-## _**6502 SBC Kits**_This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt>, <https://hackaday.io/search?term=6502>, & <https://hackaday.com/?s=6502>
+## _**6502 SBC Kits**_
+
+This section covers a few of the popular 'to buy' DIY 6502 Single Board Computer Kits that are available. For a complete list of 6502 homebrew projects check out <http://6502.org/homebuilt>, <https://hackaday.io/search?term=6502>, & <https://hackaday.com/?s=6502>
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
