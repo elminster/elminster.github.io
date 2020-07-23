@@ -215,6 +215,30 @@ This section covers any recent new or remakes of DIY projects that don't have an
 
 ***
 
+## _**3D Printing - 3D Printing Projects for the Acorn 8bit**_
+
+This section covers 3d prints that relate to 8 bit Acorn machines. Bear in mind there are other non Acorn based designs that are not listed here, e.g. Amiga Gotek Designs could be used.
+
+| Product Description | Designer | Rafts | Support | Infill | Category | Format | License | URLs |
+|---------------------|-----------|--------|------------|------------|----------|-------|---------|------|
+PiTubeDirect Case | aerobaticant | N/A | Yes | 10-20% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4131308> |
+Joystick Adapter Case for Monster Joystick adapter | Tom_DD | N/A | N/A | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3320298> |
+3.5" Drive Bay Gotek Floppy Emulator Bracket |Tom_DD | N/A | N/A | TBC | Drive Bracket | STL | Creative Commons | <https://www.thingiverse.com/thing:3387674> |
+Acorn Electron Transformer Box | DigitalDunc | N/A | N/A | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3563581> |
+Acorn Electron Edge Connector Cover | DigitalDunc | No | No | TBC | Cover | STL/FCStd | Creative Commons | <https://www.thingiverse.com/thing:3561356> |
+Beeb "Ashtray" cover | OldVersion | No | No | 20% | Cover | STL/FCStd | Creative Commons | <https://www.thingiverse.com/thing:4256116> |
+Electron/Master ROM Cartridge Case | daveejhitchins | N/A | N/A | TBC | Case | STL | TBC | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=18607> |
+BeebSCSI Case  | Simon Inns | No | No | 15% | Case |STL/SCAD | Creative Commons | <https://github.com/simoninns/BeebSCSI/tree/master/BeebSCSI_OpenSCAD> |
+BeebSCSI "Vertical" Case Remix | Elminster | No | Optional | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4549392> |
+FreeFi232 Case | Elminster | No | No | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4540983> |
+BeebSDI 2.4 Case | Elminster | No | No | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4545234> |
+BBC Micro Coprocessor Tube Hat with Raspberry Pi 3A+ Case | Tom_DD | No | Yes | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3290517> |
+Mini BBC Micro Model B | RabbitEngineering | N/A | N/A | TBC | Model | STL | Creative Commons | <https://www.thingiverse.com/thing:2465712> |
+GoTek USB Floppy Emulator External Mini Caddy | Tom_DD | No | Yes | 20% | Caddy | STL | Creative Commons |  <https://www.thingiverse.com/thing:2878265> |
+BBC Micro Owl Logo | chrislogic | N/A | N/A | TBC | Artifact | STL | Creative Commons | <https://www.thingiverse.com/thing:839200> |
+
+***
+
 ## _**Resellers**_
 
 | Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
