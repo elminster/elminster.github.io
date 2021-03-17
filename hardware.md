@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stardot Retro Hardware List"
-date: 2020-10-07
+date: 2021-03-17
 ---
 
 <style>
@@ -153,7 +153,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 
 ## _**Hardware System Integration Software**_
 
-| Product | ------Description------ | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
+| Product | Description | Designers | Active | Connection | Compatible | Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|------------|------------|----------|-------|---------|----------|------|
 | PiTube | RPi Software + 5v Step down design to turn RPi into a CoPro | Hoglet/BigEd | Y | N/A | ALL *E | CoPro | Custom | Open Source | Not for Profit | <https://github.com/hoglet67/PiTubeDirect> |
 | UPURS | The main software for the UPURS system. Also requires a user port serial cable and the correct USB Serial dongle. | MartinB | Y | User Port | All *E | Comms | Custom | Open Source | Not for Profit | <http://www.retro-kit.co.uk/UPURS/> |
@@ -213,6 +213,8 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Music 2000 Clone | Music 2000 Midi Interface Clone  | jasonl | Y | Music 5000 | BBC & Master | Audio| Design Only | Open Source | Not for Profit | <https://github.com/jlbeebprojects/music2xxx> |
 | ArduinoFilestore | Arduino based Econet Filestore  | garethdavisbbc | Y | Econet Port | BBC & Master | Network | Design Only | Open Source | Not for Profit | <https://github.com/stardot/ArduinoFilestore> |
 | Beeb Bot Clone | Clone design of the BBC Micro Bot  | simoni | Y | Robot | BBC & Master | Other | Design Only | Open Source | Not for Profit | <https://github.com/simoninns/Beeb-Bot/wiki> |
+| BBC B+ SRAM Clone| BBC B+64K Acorn expansion board  | pmul128 | Y | BBC B+ Expansion Slot | BBC B+| Expansion| Design Only | Open Source | Not for Profit | <http://www.bygonebytes.co.uk/BBCBPlus_SRAM.html> |
+
 
 ***
 
