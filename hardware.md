@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stardot Retro Hardware List"
-date: 2020-07-17
+date: 2020-10-07
 ---
 
 <style>
@@ -195,7 +195,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | Acorn Cartridge Breakout | Acorn Master and Electron Cartridge Breakout Board | simoni | Y | Cartridge | Electron & Master | Development | Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15158> |
 | 1MHz Breakout | 1MHz bus breakout board | dominicbeesley | N | 1Mhz Bus | BBC B, Master | Expansion | Part Build | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16436> |
 | HostFS+TCPIP | Transfer files between Beeb and PC using ethernet | dominicbeesley | Dev | 1Mhz Bus | BBC B, Master | Expansion | TBC | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16565> |
-| beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM | BigEd/RichardE | Y | CPU Socket | BBC B, Master | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
+| beeb816 | 65816 upgrade for BBC Micro, including lots of fast RAM, shadow mode, sideways RAM, fast CPU | BigEd/Revaldinho | Y | CPU Socket | BBC B | Expansion | Design Only | Open Source | Not for Profit | <https://github.com/BigEd/beeb816/> |
 | ICE-T65/Z80/6809 | In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors (socketed cpu req.) | Hoglet | Y | CPU Socket | ALL | Diagnostics | Design Only | Open Source | Not for Profit | <https://github.com/hoglet67/AtomBusMon/wiki> |
 | Beeb 1MHz Bus FPGA Adaptor | Allows a Xilinx FPGA Spartan 6 XC6SLX9 board to be connected to a Beeb | Hoglet | Y | 1 MHz Bus | BBC B, Master | Expansion | PCB Only | Open Source | Not for Profit | <https://github.com/hoglet67/Beeb1MHzBusFpga/wiki> |
 | 6502 Code Profiling | A holistic method of diagnostics using various projects and techniques. | Hoglet, BigEd, myelin and cmorley | Y | N/A | ALL | Diagnostics | Custom | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=3&t=14885&p=199582&hilit=Dave+6502+profiler#p199582> |
