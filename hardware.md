@@ -214,7 +214,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 | ArduinoFilestore | Arduino based Econet Filestore  | garethdavisbbc | Y | Econet Port | BBC & Master | Network | Design Only | Open Source | Not for Profit | <https://github.com/stardot/ArduinoFilestore> |
 | Beeb Bot Clone | Clone design of the BBC Micro Bot  | simoni | Y | Robot | BBC & Master | Other | Design Only | Open Source | Not for Profit | <https://github.com/simoninns/Beeb-Bot/wiki> |
 | BBC B+ SRAM Clone| BBC B+64K Acorn expansion board  | pmul128 | Y | BBC B+ Expansion Slot | BBC B+| Expansion| Design Only | Open Source | Not for Profit | <http://www.bygonebytes.co.uk/BBCBPlus_SRAM.html> |
-
+| Pegasus Disc Layout | New Pegasus Disc Interface PCB Layout  | davejhitchins | Y | Electron Cartridge Slot | Electron| Expansion| Design Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=22291> |
 
 ***
 
