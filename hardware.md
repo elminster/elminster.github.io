@@ -239,6 +239,7 @@ BBC Micro Coprocessor Tube Hat with Raspberry Pi 3A+ Case | Tom_DD | No | Yes | 
 Mini BBC Micro Model B | RabbitEngineering | N/A | N/A | TBC | Model | STL | Creative Commons | <https://www.thingiverse.com/thing:2465712> |
 GoTek USB Floppy Emulator External Mini Caddy | Tom_DD | No | Yes | 20% | Caddy | STL | Creative Commons |  <https://www.thingiverse.com/thing:2878265> |
 BBC Micro Owl Logo | chrislogic | N/A | N/A | TBC | Artifact | STL | Creative Commons | <https://www.thingiverse.com/thing:839200> |
+BBC Master Cartridge Slot Cover | Commisioned by bleister | N/A | N/A | TBC | Cover | STL | TBC | <https://stardot.org.uk/forums/viewtopic.php?p=318857&sid=05ea84f8a38f5e07ff661a65e66d016d#p318857> |
 
 ***
 
