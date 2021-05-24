@@ -234,7 +234,7 @@ Electron/Master ROM Cartridge Case | daveejhitchins | N/A | N/A | TBC | Case | S
 BeebSCSI Case  | Simon Inns | No | No | 15% | Case |STL/SCAD | Creative Commons | <https://github.com/simoninns/BeebSCSI/tree/master/BeebSCSI_OpenSCAD> |
 BeebSCSI "Vertical" Case Remix | Elminster | No | Optional | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4549392> |
 FreeFi232 Case | Elminster | No | No | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4540983> |
-BeebSDI 2.4 Case | Elminster | No | No | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4545234> |
+BeebSID 2.4 Case | Elminster | No | No | 15% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4545234> |
 BBC Micro Coprocessor Tube Hat with Raspberry Pi 3A+ Case | Tom_DD | No | Yes | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3290517> |
 Mini BBC Micro Model B | RabbitEngineering | N/A | N/A | TBC | Model | STL | Creative Commons | <https://www.thingiverse.com/thing:2465712> |
 GoTek USB Floppy Emulator External Mini Caddy | Tom_DD | No | Yes | 20% | Caddy | STL | Creative Commons |  <https://www.thingiverse.com/thing:2878265> |
