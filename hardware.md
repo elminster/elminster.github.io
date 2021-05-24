@@ -240,6 +240,7 @@ Mini BBC Micro Model B | RabbitEngineering | N/A | N/A | TBC | Model | STL | Cre
 GoTek USB Floppy Emulator External Mini Caddy | Tom_DD | No | Yes | 20% | Caddy | STL | Creative Commons |  <https://www.thingiverse.com/thing:2878265> |
 BBC Micro Owl Logo | chrislogic | N/A | N/A | TBC | Artifact | STL | Creative Commons | <https://www.thingiverse.com/thing:839200> |
 BBC Master Cartridge Slot Cover | Commisioned by bleister | N/A | N/A | TBC | Cover | STL | TBC | <https://stardot.org.uk/forums/viewtopic.php?p=318857&sid=05ea84f8a38f5e07ff661a65e66d016d#p318857> |
+BBC Type 1 KeyCaps | Piedg | No | No | TBC | Keyboard | STL | Creative Commons | <https://stardot.org.uk/forums/viewtopic.php?p=322854#p322854> <https://www.thingiverse.com/thing:4867915>|
 
 ***
 
