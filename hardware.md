@@ -241,7 +241,7 @@ GoTek USB Floppy Emulator External Mini Caddy | Tom_DD | No | Yes | 20% | Caddy 
 BBC Micro Owl Logo | chrislogic | N/A | N/A | TBC | Artifact | STL | Creative Commons | <https://www.thingiverse.com/thing:839200> |
 BBC Master Cartridge Slot Cover | Commisioned by bleister | N/A | N/A | TBC | Cover | STL | TBC | <https://stardot.org.uk/forums/viewtopic.php?p=318857&sid=05ea84f8a38f5e07ff661a65e66d016d#p318857> |
 BBC Type 1 KeyCaps | Piedg | No | No | TBC | Keyboard | STL | Creative Commons | <https://stardot.org.uk/forums/viewtopic.php?p=322854#p322854> <https://www.thingiverse.com/thing:4867915>|
-
+BBC Micro Speaker Mount | Piedg | No | No | TBC | Cover | STL | Creative Commons | <https://stardot.org.uk/forums/viewtopic.php?p=325885#p325885> <https://www.thingiverse.com/thing:4890893>|
 ***
 
 ## _**Resellers**_
