@@ -226,6 +226,7 @@ This section covers 3d prints that relate to 8 bit Acorn machines. Bear in mind 
 |---------------------|-----------|--------|------------|------------|----------|-------|---------|------|
 PiTubeDirect Case | aerobaticant | N/A | Yes | 10-20% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4131308> |
 Joystick Adapter Case for Monster Joystick adapter | Tom_DD | N/A | N/A | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3320298> |
+BBC Micro Joystick Adapter Case (REMIX) | Pledg | N/A | N/A | TBC | Case | STL | Creative Commons | https://www.thingiverse.com/thing:4917665 |
 3.5" Drive Bay Gotek Floppy Emulator Bracket |Tom_DD | N/A | N/A | TBC | Drive Bracket | STL | Creative Commons | <https://www.thingiverse.com/thing:3387674> |
 Acorn Electron Transformer Box | DigitalDunc | N/A | N/A | TBC | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:3563581> |
 Acorn Electron Edge Connector Cover | DigitalDunc | No | No | TBC | Cover | STL/FCStd | Creative Commons | <https://www.thingiverse.com/thing:3561356> |
@@ -244,6 +245,7 @@ BBC Type 1 KeyCaps | Piedg | No | No | TBC | Keyboard | STL | Creative Commons |
 BBC Micro Speaker Mount | Piedg | No | No | TBC | Cover | STL | Creative Commons | <https://stardot.org.uk/forums/viewtopic.php?p=325885#p325885> <https://www.thingiverse.com/thing:4890893>|
 Gotek Drive Top Replacement | Piedg | No | No | TBC | Case | STL | Creative Commons | <https://stardot.org.uk/forums/viewtopic.php?p=326610#p326610> <https://www.thingiverse.com/thing:4897514>|
 BBC Micro Turbo SPI Case | MrLurch | No | No | 38% | Case | STL | Creative Commons | <https://www.thingiverse.com/thing:4885518>|
+ (BBC) Gotek USB floppy emulator case  | Magma/Matt | No | No | TBC | Case | STL | GNU V3.0 | <https://www.prusaprinters.org/prints/71645-gotek-usb-floppy-emulator-case>|
 
 
 ***
