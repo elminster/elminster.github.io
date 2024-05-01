@@ -218,6 +218,16 @@ This section covers any recent new or remakes of DIY projects that don't have an
 
 ***
 
+## _**Accessories and Miscellaneous**_
+
+This section covers acessories, miscellaneous or quality of life improvements that dont fit in other categories.
+
+| Product | Description | Designers | Active |  Category | Built | License | Org_Type | URLs |
+|---------|-------------|-----------|--------|----------|-------|---------|----------|------|
+| Acorn UV resistant dust covers  | Keep that Acorn from going yellow | Lando Boffin | Y |  Cover | Y | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?p=346759#p346759> |
+
+***
+
 ## _**3D Printing - 3D Printing Projects for the Acorn 8bit**_
 
 This section covers 3d prints that relate to 8 bit Acorn machines. Bear in mind there are other non Acorn based designs that are not listed here, e.g. Amiga Gotek Designs could be used.
