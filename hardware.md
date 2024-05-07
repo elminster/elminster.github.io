@@ -124,7 +124,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Pi to 1MHz Interface | Raspberry Pi to 1MHz bus interface | dp11 | N | 1MHz | ALL *E | Expansion | PCB Only | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15848> |
 | Beeb Blitterator | Blitter for the Beeb | dominicbeesley | In Development | CPU Socket | BBC B, Master | Expansion | PCB Only | TBC | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?p=187133#p187133> |
 | FreeFi-232 v2 | Internet access on your Beeb via your serial port | danielj | Y | Serial  | BBC B, Master | Comms | TBC  | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=15211> |
-| Music 4000 STM32  | Music 4000 stm32 controller interface doodad | danielj | In Development | User Port | ALL *E | Audio | TBC | Open Source | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17146> |
+| Music 4000 Converters | MIDI to Music 4000 controller interface | danielj | Y | User Port | ALL *E | Audio | PreBuild | Open Source | Not for Profit | <https://www.stardot.org.uk/forums/viewtopic.php?t=18213> |
 | Beeb SD Card | Beeb SD card interfaces | SirMorris | N | User Port | ALL *E | Storage | Prebuild | Open Source | Not for Profit | <http://stardot.org.uk/forums/viewtopic.php?f=8&t=12689> |
 | Electron MicroSD & SRAM Card | Electron SD card and SRAM interface | Ramtop | Y | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=17347> |
 | Electron SD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
@@ -148,6 +148,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Electron Synth Interface | A Synth/Sequencer Interface for the Electron  | walkerworks | Y | User Port | Electron | Sound | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Electron_Sequencer.html#User_Interface> |
 | TTL RGB Switch | Din Style RGB Switcher for Acorn Machines | walkerworks | Y | RGB | ALL | Video | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Acorn_revival.html#RGB%20Switch> |
 | 32-16 ROM Board | 4x16K instead of 2x32k ROM Board for the BBC Master | walkerworks | Y | ROM Slot | ALL | Expansion | PCB Only | TBC | Not for Profit | <http://www.bygonebytes.co.uk/Acorn_revival.html#Master> |
+| Remake of Mertec companion | Expansion to provide missing ports on Master Compact | aotta | Y | Edge Connector | Compact| Expansion | PCB Only | TBC | Not for Profit | <https://www.stardot.org.uk/forums/viewtopic.php?t=25129> |
 
 ***
 
@@ -220,7 +221,7 @@ This section covers any recent new or remakes of DIY projects that don't have an
 
 ## _**Accessories and Miscellaneous**_
 
-This section covers acessories, miscellaneous or quality of life improvements that dont fit in other categories.
+This section covers acessories, miscellaneous or quality of life improvements that don't fit in other categories.
 
 | Product | Description | Designers | Active |  Category | Built | License | Org_Type | URLs |
 |---------|-------------|-----------|--------|----------|-------|---------|----------|------|
@@ -299,5 +300,5 @@ Note the RC2014 requires the 3rd party 6502 modules by Ben Chong (or design your
 | Manuals | Various Manual Reprints for Acrorn's | RetroClinic | Y | N/A | ALL | Books | Prebuild | Other | Commercial | <http://www.retroclinic.com/acorn/manuals/manuals.htm> |
 | RGB Scart Lead | RGB Scart Lead Video TV Cable | retrocomputershack | Y | RGB | ALL | Video | Prebuild | Other | Commercial | <http://www.ebay.co.uk/itm/250877464070?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT> |
 | Cassette Lead | Cable to connect Beeb to Cassette | retrocomputershack | Y | Cassette Port | ALL | Storage | Prebuild | Other | Commercial | <http://www.ebay.co.uk/itm/250877464070> |
-
+|BBC Keyboard Surround | Remake of the BBC B Keyboard Surround/Facial | baz4096 | Y | N/A | BBC | Case | Prebuild | Other | TBC | <https://stardot.org.uk/forums/viewtopic.php?t=25315> |
 </div>
