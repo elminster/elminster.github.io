@@ -130,6 +130,7 @@ Following is a list of Modern Hardware projects that have been created for the A
 | Electron SD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=16840> |
 | Electron MicroSD Card | Electron SD card interfaces | Ramtop | N | Electron Ext Edge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16481> |
 | SD Interface for Plus 1 | Electron SD card interface for Plus 1 | Ramtop | Dev | Cartridge | Electron | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?t=18055> |
+| MasterSD | Master SD card interface | Ramtop | Y | Cartridge | Master | Storage | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?p=396908> |
 | Computer Concept PALROM redesign | 128K Software ROMs | KenLowe | Y | ROM Slot | BBC, Master | Utilities | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=17124> |
 | Integra-B Remake | Modern build of the Integra-B ROM/RAM board | KenLowe | Y | ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=8&t=16825> |
 | IntegraB V2 | Modern improvement of the Integra-B ROM/RAM board | KenLowe | In Development| ROM Slot | BBC, Master | Expansion | Prebuild | TBC | Not for Profit | <https://stardot.org.uk/forums/viewtopic.php?f=3&t=19392&p=269720#p269720> |
